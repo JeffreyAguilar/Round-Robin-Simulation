@@ -3,6 +3,7 @@
 The program is used to generate a schedule of processes. The processes are stored in a plaintext file. The program accepts two parameters. The 
 first parameter is the path of the processes file. The second parameter is the time quantum. 
 
+
 The simulation includes the following:
 
 Clock: timestamps all events for processes, such as creation time, completion time, 
@@ -21,6 +22,7 @@ Process Service Time: amount of time required by the processes to complete execu
 Time Quantum: time each process can spend in the CPU, before it is removed
 
 Context Switch: number of times a process is switched
+
 
 The program then prints out the following performance evaluation criteria:
 
