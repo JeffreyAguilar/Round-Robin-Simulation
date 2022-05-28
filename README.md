@@ -1,6 +1,6 @@
 # Round Robin CPU Scheduling Project
 
-The program is used to generate a schedule of processes. The processes are stored in a plaintext file. The program accepts two parameters. The 
+The program is used to generate a schedule of processes. The processes are stored in a plaintext CSV file. The program accepts two parameters. The 
 first parameter is the path of the processes file. The second parameter is the time quantum. 
 
 
